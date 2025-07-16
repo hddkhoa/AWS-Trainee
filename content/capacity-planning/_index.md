@@ -33,6 +33,8 @@ Ensure adequate resources are available to meet future demand while optimizing c
 
 ## Planning Methodology
 
+<img src="/images/qqqq.jpg" alt="qqqq" width="800">
+
 ### 1. Data Collection
 - **Performance metrics**: CPU, memory, I/O, connections
 - **Business metrics**: User growth, transaction volume

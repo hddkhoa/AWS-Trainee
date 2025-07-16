@@ -12,7 +12,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+  themeVariant = "mine"
   # Git hub repo link
   editURL = ""
   description = "RDS Performance Insights & Query Optimization - Comprehensive guide to AWS RDS Performance monitoring and optimization"
@@ -21,7 +21,10 @@ home = [ "HTML", "RSS", "JSON"]
   disableBreadcrumb = false
   disableNextPrev = false
   # Custom CSS
-  custom_css = ["css/vietnamese-fix.css"]
+  custom_css = ["css/custom.css"]
+  # Logo
+  landingPageURL = "/"
+  landingPageName = "<i class='fas fa-home'></i> Trang chủ"
   
 [Languages]
 [Languages.en]
